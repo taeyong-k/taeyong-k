@@ -9,4 +9,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyong-k)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{taetong-k})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={taetong-k})](https://solved.ac/{taetong-k})
