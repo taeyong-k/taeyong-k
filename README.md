@@ -1,3 +1,4 @@
+<h2>Contact</h2>
 <p>
   <a alt="" href="#" target="_blink"><img src="https://img.shields.io/badge/kakao-black?logo=kakaotalk"></a>
   <a alt="" href="#" target="_blink"><img src="https://img.shields.io/badge/Tistory-orange?logo=tistory"></a>
