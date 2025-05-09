@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyong-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={taetong-k})](https://solved.ac/{taetong-k})
+
 <h2>Contact</h2>
 <p>
   <a alt="" href="#" target="_blink"><img src="https://img.shields.io/badge/kakao-black?logo=kakaotalk"></a>
@@ -8,6 +11,4 @@
   <a alt="" href="#" target="_blink"><img src="https://img.shields.io/badge/what-blue"></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyong-k&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={taetong-k})](https://solved.ac/{taetong-k})
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
